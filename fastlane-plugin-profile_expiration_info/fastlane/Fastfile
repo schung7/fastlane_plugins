@@ -1,0 +1,3 @@
+lane :test do
+  profile_expiration_info
+end
